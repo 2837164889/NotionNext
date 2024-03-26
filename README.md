@@ -25,11 +25,11 @@
 
 ## 预览效果
 
-在线演示：[https://prandomhacker.cn/](https://prandomhacker.cn/) ，项目支持多主题切换，没找到喜欢的主题？[贡献](/CONTRIBUTING.md)一个吧~
+在线演示：[https://randomhacker.cn/](https://randomhacker.cn/) ，项目支持多主题切换，没找到喜欢的主题？[贡献](/CONTRIBUTING.md)一个吧~
 
 | Next | Medium | Hexo | Fukasawa |
 |--|--|--|--|
-| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://prandomhacker.cn/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://prandomhacker.cn/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://prandomhacker.cn/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://prandomhacker.cn/?theme=fukasawa) |
+| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://randomhacker.cn/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://randomhacker.cn/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://randomhacker.cn/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://randomhacker.cn/?theme=fukasawa) |
 
 ## 我要如何开始？
 
