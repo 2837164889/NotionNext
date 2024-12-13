@@ -9,9 +9,8 @@ export default function PoweredBy(props) {
     <div
       className={`gap-x-1 flex flex-wrap text-sm font-serif ${props.className || ''}`}>
       <span>Powered by</span>
-      <a href="my.rdhack.com">
-        RanDomHacker
-        NotionNext {siteConfig('VERSION')}
+      <a href="http://my.rdhack.com">
+        RanDomHacker-NotionNext {siteConfig('VERSION')}
       </a>
       .
     </div>
